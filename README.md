@@ -1,4 +1,6 @@
 # simple-dump-cc65
+![demo](https://user-images.githubusercontent.com/48037381/159150594-b214c530-15cb-4b80-a782-b7717bf9883a.gif)
+
 A simple memory dumper for the Commodore 64 written in C89.
 Built using the [cc65](https://cc65.github.io/index.html) C compiler for 6502 based systems.
 
